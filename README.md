@@ -1,5 +1,5 @@
 
-Hi, this page contains all the projects I've built. The projects listed here are full stack we applications that are built using different technologies. Each project is separated into two different repositories where one contains the implementation of the front end and the other contains the implementation of the back end. 
+Hi, this page contains some of the projects I've built. The projects listed here are full stack we applications that are built using different technologies. Each project is separated into two different repositories where one contains the implementation of the front end and the other contains the implementation of the back end. 
 
 The projects in this repository are listed below: 
 ## Course Scheduler for California State University Dominguez Hills
