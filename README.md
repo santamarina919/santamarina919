@@ -5,7 +5,7 @@ The projects in this repository are listed below:
 ## Generic University Planner
 
 ### Front-End
-### [Back-End] (https://github.com/santamarina919/University-Planner-Backend)
+### [Back-End](https://github.com/santamarina919/University-Planner-Backend)
 
 This project aimed at making a course scheduler that could be applied to any University. It allows students pick from supprted degrees from different universities and plan how to obtain that degree. The application tracks any dependencies between courses and guarantees and plan the user creates is a valid one. In addition to that the application provides a summary of how the user's choices affect their progress and any effects that occur from their choices.  
 
