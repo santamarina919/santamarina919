@@ -4,7 +4,7 @@ This repository contains full stack applications that I want to showcase. The fr
 The projects in this repository are listed below: 
 ## Generic University Planner
 
-### Front-End
+### [Front-End](https://github.com/santamarina919/University-Planner-FrontEnd)
 ### [Back-End](https://github.com/santamarina919/University-Planner-Backend)
 
 This project aimed at making a course scheduler that could be applied to any University. It allows students pick from supprted degrees from different universities and plan how to obtain that degree. The application tracks any dependencies between courses and guarantees and plan the user creates is a valid one. In addition to that the application provides a summary of how the user's choices affect their progress and any effects that occur from their choices.  
@@ -14,6 +14,9 @@ The technologies used to build the project were Spring, Angular, Posgres, and Hi
  This application was deployed using Google Cloud Platform virtual machines as a learning exercise. A vm was used to host the backend with a Apache Tomcat server and local instance of postgres. Another vm was used to host the front end which used an NGINX server and served the angular front end of the project. 
 
 ## Repository For Families
+
+### [Front-End](https://github.com/santamarina919/RepositoryForFamilies-FrontEnd)
+### [Back-End](https://github.com/santamarina919/RepositoryForFamilies-Backend)
 
 This project is a platform meant for people who live in the same household and share resources and/or need to share some knowledge. It achieves this by allowing users to post resources to a repository that other members can then reserve from. The application also features a shared calendar for all members who are apart of the same group. The application also provides a kitchen feature where users can post recipes with steps. And users can post what brands are preferred for different types of products
 
